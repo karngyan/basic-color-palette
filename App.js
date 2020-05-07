@@ -40,8 +40,3 @@ const App = () => {
 };
 
 export default App;
-
-/***
- * Request URL: https://api.fast.com/netflix/speedtest/v2?https=true&token=YXNkZmFzZGxmbnNkYWZoYXNkZmhrYWxm&urlCount=5
-  https://github.com/branchard/fast-speedtest-api
- */
