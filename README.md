@@ -6,10 +6,7 @@
 
 # Here's how it looks
 
-<img src="./assets/screenshots/ss_0.jpg" alt="Splash" width="15%"/>
-<img src="./assets/screenshots/ss_1.jpg" alt="Home" width="15%"/>
-<img src="./assets/screenshots/ss_2.jpg" alt="Palette" width="15%"/>
-<img src="./assets/screenshots/ss_3.jpg" alt="AddNewSchema" width="15%"/>
+<img src="./assets/screenshots/ss_0.jpg" alt="Splash" width="15%"/><img src="./assets/screenshots/ss_1.jpg" alt="Home" width="15%"/><img src="./assets/screenshots/ss_2.jpg" alt="Palette" width="15%"/><img src="./assets/screenshots/ss_3.jpg" alt="AddNewSchema" width="15%"/>
 
 # Copyright Information
 
